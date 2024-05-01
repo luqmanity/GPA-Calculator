@@ -1,2 +1,3 @@
-# GPA-Calculator
-It calculates unw and w gpa
+# GPA Calculator
+
+Calculates a student's unweighted and weighted GPA based on grade and class type
